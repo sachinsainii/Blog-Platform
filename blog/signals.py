@@ -9,9 +9,9 @@ from .models import Post
 User = get_user_model()
 
 def send_email_to_all_users(post):
-    subject = f"New Post Created: \n\n{post.title}"
-    message = f"A new post has been published:{post.title}\n\n{post.text}\n\nBy {post.author}{post.published_date}"
-    from_email = settings.DEFAULT_FROM_EMAIL
+    subject = f"New Post Published: {post.title}"
+    message = f"A New Post Has Been Published: {post.title}\n Please Check It Out This"
+    from_email = settings.DEFAULT_FROM_EMAIL 
 
     recipient_list = list(User.objects.values_list("email",flat=True).exclude(email=""))
 
