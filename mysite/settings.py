@@ -27,12 +27,12 @@ SECRET_KEY = "django-insecure-9qz2#9o^*eoe@96nnn#ro&51@5-j6_r+ohadtuszd1ua22mzu+
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-# ALLOWED_HOSTS = [
-#     "sachinsaini4545.pythonanywhere.com",  # PythonAnywhere
-#     "study-blog-oqy2.onrender.com",        # Render domain
-#     "127.0.0.1",
-#     "localhost",
-# ]
+ALLOWED_HOSTS = [
+    "sachinsaini4545.pythonanywhere.com",  # PythonAnywhere
+    "study-blog-oqy2.onrender.com",        # Render domain
+    "127.0.0.1",
+    "localhost",
+]
 # Application definition
 
 ALLOWED_HOSTS = ["*"]
