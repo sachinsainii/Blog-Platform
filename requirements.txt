@@ -13,3 +13,5 @@ python-decouple
 Pillow
 environ
 django-environ
+psycopg2-binary
+dj-database-url
