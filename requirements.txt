@@ -11,3 +11,5 @@ django-taggit>=5.0
 django-cors-headers
 python-decouple
 Pillow
+environ
+django-environ
