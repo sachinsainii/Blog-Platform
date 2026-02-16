@@ -44,6 +44,10 @@ Example:
 ![Register Page]
 <img width="1900" height="859" alt="image" src="https://github.com/user-attachments/assets/7b29226e-fe1d-4d77-814e-44d65e1617d7" />
 
+![My Profile Page]
+<img width="1896" height="855" alt="image" src="https://github.com/user-attachments/assets/80aabbd0-8c56-441a-8962-81b7dd26758a" />
+
+
 ![Create Post Page]
 <img width="1893" height="857" alt="image" src="https://github.com/user-attachments/assets/3dd6974e-fccd-43a1-8c2d-20e274270c4d" />
 
